@@ -1,2 +1,2 @@
 # online-job-portal
-Author - Manish Jain
+Author - Manish Jain (Online Job Portal)
